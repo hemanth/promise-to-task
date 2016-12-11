@@ -1,0 +1,33 @@
+{
+  "name": "promise-to-task",
+  "version": "0.0.0",
+  "description": "Tiny module to convert a Promise into Task.",
+  "license": "MIT",
+  "repository": "hemanth/promise-to-task",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "promise",
+    "task",
+    "functional"
+  ],
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "is-promise": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
