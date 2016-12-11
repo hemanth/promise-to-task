@@ -1,6 +1,6 @@
 {
   "name": "promise-to-task",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tiny module to convert a Promise into Task.",
   "license": "MIT",
   "repository": "hemanth/promise-to-task",
